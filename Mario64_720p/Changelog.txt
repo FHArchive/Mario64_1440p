@@ -1,0 +1,13 @@
+v1.0.1:
+- Dolphin: PNG optimization
+- Dolphin: Fixed Power Meter
+- Added texture for the Dire Dire Docks entrance
+- Cleaned up the railing Inside the Castle
+- Cleaned up a Jolly Roger Bay texture
+- Fixed dimensions of Bowser's painting in Lethal Lava Land
+- Fixed Yellow Sphere texture
+- Improved ceiling texture Inside the Castle
+- Improved wall texture in the upper areas Inside the Castle
+
+v1.0.0:
+- Initial version
