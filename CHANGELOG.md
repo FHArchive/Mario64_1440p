@@ -4,6 +4,10 @@ patch-level version changes can be found in [commit messages](../../commits/mast
 
 Versions are in the form: \[upstream_version\]_\[patch\]
 
+## 1.0.1_1 - (Beta)
+
+- Add PC port and GlideN64 port
+- **Untested** (Mupen64-next seems to be misbehaving with PNG textures)
 
 ## 1.0.1_0 - 2020/09/24
 - Dolphin: PNG optimization

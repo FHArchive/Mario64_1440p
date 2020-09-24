@@ -22,8 +22,8 @@ https://evilgames.eu/texture-packs/sm64-reloaded.htm.
 |4k          |           x8|1440p-4k   |6.82G|https://evilgames.eu/texture-packs/sm64-reloaded.htm|
 |1440p       |           x4| 720p-1440p|83.7M|See Download Below|
 |1440pPNG    |           x4| 720p-1440p|21.9M|See Download Below|
-|1440pPC     |           x4| 720p-1440p|    $|See Download Below|
-|1440pGlideN64|          x4| 720p-1440p|    $|See Download Below|
+|1440pPC     |           x4| 720p-1440p|60.1M|See Download Below|
+|1440pGlideN64|          x4| 720p-1440p|57.4M|See Download Below|
 |720p        |           x2|native-720p|64.1M|See Download Below|
 |720pPNG     |           x2|native-720p|7.03M|See Download Below|
 
@@ -31,7 +31,6 @@ https://evilgames.eu/texture-packs/sm64-reloaded.htm.
 Note that the non-png versions have a larger file size as they use the 4k HUD
 (downscaling the HUD resulted in misbehaving textures)
 
-$ **Coming Soon**
 
 ## Installation
 
@@ -85,7 +84,10 @@ See https://evilgames.eu/texture-packs/sm64-reloaded.htm for more info
 
 #### 1440p - PNG
 
-**Coming Soon**
+1. Clone/ Download the repository (see below for step-by-step instructions)
+2. The textures are under `Mario64_1440pPC`
+
+**Out Now - Follow Instructions Above**
 
 #### 720p/1440p HTS -- 720p PNG
 
@@ -103,7 +105,10 @@ textures into the gfx directory. You need at least 6 GB of free RAM.
 
 #### 1440p - PNG
 
-**Coming Soon**
+1. Clone/ Download the repository (see below for step-by-step instructions)
+2. The textures are under `Mario64_1440pPC`
+
+**Out Now - Follow Instructions Above**
 
 #### 720p - PNG
 
