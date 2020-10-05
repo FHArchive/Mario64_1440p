@@ -17,15 +17,16 @@ https://evilgames.eu/texture-packs/sm64-reloaded.htm.
 
 ## Comparison
 
-|Texture Size|Texture Scale|Resolution |Size |URL|
-|:--         |------------:|:---------:|----:|:--|
-|4k          |           x8|1440p-4k   |6.82G|https://evilgames.eu/texture-packs/sm64-reloaded.htm|
-|1440p       |           x4| 720p-1440p|83.7M|See Download Below|
-|1440pPNG    |           x4| 720p-1440p|21.9M|See Download Below|
-|1440pPC     |           x4| 720p-1440p|60.1M|See Download Below|
-|1440pGlideN64|          x4| 720p-1440p|57.4M|See Download Below|
-|720p        |           x2|native-720p|64.1M|See Download Below|
-|720pPNG     |           x2|native-720p|7.03M|See Download Below|
+|Texture Size|Texture Scale|Resolution  |Size|URL|
+|:--         |------------:|:----------:|---:|:--|
+|Dolphin4k   |           x8|    1440p-4k|1.34G|https://evilgames.eu/texture-packs/sm64-reloaded.htm|
+|DolphinPNG4k|           x8|    1440p-4k|785M|https://evilgames.eu/texture-packs/sm64-reloaded.htm|
+|PC 4k       |           x8|    1440p-4k|844M|https://evilgames.eu/texture-packs/sm64-reloaded.htm|
+|GlideN64 4k |           x8|    1440p-4k|783M|https://evilgames.eu/texture-packs/sm64-reloaded.htm|
+|Dolphin     |           x4|native-1440p|95.5M|See Download Below|
+|DolphinPNG  |           x4|native-1440p|31.0M|See Download Below|
+|PC          |           x4|native-1440p|278M|See Download Below|
+|GlideN64    |           x4|native-1440p|265M|See Download Below|
 
 
 Note that the non-png versions have a larger file size as they use the 4k HUD
@@ -53,25 +54,25 @@ Download the pack from one of the links above
 - Graphics ⇢ Advanced: Load Custom Textures
 - Graphics ⇢ Advanced: Prefetch Custom Textures (2 GB RAM DDS / 6 GB RAM PNG)
 
-#### 720p/1440p - DDS
+#### 1440p - DDS
 
-The best way to do this is probably to download `Mario64_[720p/1440p].7z` from
+The best way to do this is probably to download `Mario64_Dolphin.7z` from
 the releases
 
-1. Download `Mario64_[720p/1440p].7z` from the releases
-2. Copy the `Mario64_[720p/1440p]` Directory to
+1. Download `Mario64_Dolphin.7z` from the releases
+2. Copy the `Mario64_Dolphin` Directory to
    `..\Dolphin Emulator\Load\Textures`
 3. Launch Dolphin
 
-#### 720p/1440p - PNG
+#### 1440p - PNG
 
 Tested to title screen only. Best to use dds version if at all possible.
 
-The best way to do this is probably to download `Mario64_[720p/1440p]PNG.7z`
+The best way to do this is probably to download `Mario64_DolphinPNG.7z`
 from the releases
 
-1. Download `Mario64_[720p/1440p]PNG.7z` from the releases
-2. Copy the `Mario64_[720p/1440p]PNG` Directory to
+1. Download `Mario64_DolphinPNG.7z` from the releases
+2. Copy the `Mario64_DolphinPNG` Directory to
    `..\Dolphin Emulator\Load\Textures`
 3. Launch Dolphin
 
@@ -85,11 +86,11 @@ See https://evilgames.eu/texture-packs/sm64-reloaded.htm for more info
 #### 1440p - PNG
 
 1. Clone/ Download the repository (see below for step-by-step instructions)
-2. The textures are under `Mario64_1440pPC`
+2. The textures are under `Mario64_GlideN64`
 
 **Out Now - Follow Instructions Above**
 
-#### 720p/1440p HTS -- 720p PNG
+#### 1440p HTS
 
 **Not Planned**
 
@@ -106,13 +107,10 @@ textures into the gfx directory. You need at least 6 GB of free RAM.
 #### 1440p - PNG
 
 1. Clone/ Download the repository (see below for step-by-step instructions)
-2. The textures are under `Mario64_1440pPC`
+2. The textures are under `Mario64_PC`
 
 **Out Now - Follow Instructions Above**
 
-#### 720p - PNG
-
-**Not Planned**
 
 ## Download
 ### Clone
