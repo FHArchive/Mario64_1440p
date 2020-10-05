@@ -1,11 +1,11 @@
-[![Repository size](https://img.shields.io/github/repo-size/FredHappyface/Mario64_720p.svg?style=for-the-badge)](../../)
-[![Issues](https://img.shields.io/github/issues/FredHappyface/Mario64_720p.svg?style=for-the-badge)](../../issues)
-[![License](https://img.shields.io/github/license/FredHappyface/Mario64_720p.svg?style=for-the-badge)](/LICENSE.md)
-[![Commit activity](https://img.shields.io/github/commit-activity/m/FredHappyface/Mario64_720p.svg?style=for-the-badge)](../../commits/master)
-[![Last commit](https://img.shields.io/github/last-commit/FredHappyface/Mario64_720p.svg?style=for-the-badge)](../../commits/master)
-[![Downloads](https://img.shields.io/github/downloads/FredHappyface/Mario64_720p/total.svg?style=for-the-badge)](../../releases)
+[![Repository size](https://img.shields.io/github/repo-size/FredHappyface/Mario64_1440p.svg?style=for-the-badge)](../../)
+[![Issues](https://img.shields.io/github/issues/FredHappyface/Mario64_1440p.svg?style=for-the-badge)](../../issues)
+[![License](https://img.shields.io/github/license/FredHappyface/Mario64_1440p.svg?style=for-the-badge)](/LICENSE.md)
+[![Commit activity](https://img.shields.io/github/commit-activity/m/FredHappyface/Mario64_1440p.svg?style=for-the-badge)](../../commits/master)
+[![Last commit](https://img.shields.io/github/last-commit/FredHappyface/Mario64_1440p.svg?style=for-the-badge)](../../commits/master)
+[![Downloads](https://img.shields.io/github/downloads/FredHappyface/Mario64_1440p/total.svg?style=for-the-badge)](../../releases)
 
-# Mario64_720p
+# Mario64_1440p
 
 <img src="readme-assets/icons/name.png" alt="Project Icon" width="750">
 
@@ -121,7 +121,7 @@ textures into the gfx directory. You need at least 6 GB of free RAM.
 clone to
 4. Type 'git clone' followed by URL in step 2
 ```bash
-$ git clone https://github.com/FredHappyface/Mario64_720p
+$ git clone https://github.com/FredHappyface/Mario64_1440p
 ```
 
 More information can be found at
