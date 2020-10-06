@@ -25,8 +25,8 @@ https://evilgames.eu/texture-packs/sm64-reloaded.htm.
 |GlideN64 4k |           x8|    1440p-4k|783M|https://evilgames.eu/texture-packs/sm64-reloaded.htm|
 |Dolphin     |           x4|native-1440p|95.5M|See Download Below|
 |DolphinPNG  |           x4|native-1440p|31.0M|See Download Below|
-|PC          |           x4|native-1440p|278M|See Download Below|
-|GlideN64    |           x4|native-1440p|265M|See Download Below|
+|PC          |           x4|native-1440p|240M|See Download Below|
+|GlideN64    |           x4|native-1440p|228M|See Download Below|
 
 
 Note that the non-png versions have a larger file size as they use the 4k HUD

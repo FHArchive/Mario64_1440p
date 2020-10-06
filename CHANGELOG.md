@@ -4,6 +4,9 @@ patch-level version changes can be found in [commit messages](../../commits/mast
 
 Versions are in the form: \[upstream_version\]_\[patch\]
 
+## 1.1.0_1 - 2020/10/06
+- Fix PC and GlideN64 textures
+
 ## 1.1.0_0 - 2020/10/05
 - New textures (door overlays and Japanese HUD font)
 - Fixes
